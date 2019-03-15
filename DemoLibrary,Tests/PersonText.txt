@@ -1,0 +1,4 @@
+﻿Gabriel,Bauermann
+Tim,Smith
+João,Neves
+Pelé,Nascimento
